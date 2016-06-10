@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\build\intermediates\pre-dexed\debug\classes-50edc1a46b54e34aa9789c6e4075d3b88dced7f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\build\intermediates\pre-dexed\debug\activation-2a0df9f840ac2b6d605ce178a5da0fe62559ac04.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\build\intermediates\pre-dexed\debug\mail-8387196ee51b8df586c4cd188314b7060ac37bcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\build\intermediates\pre-dexed\debug\additionnal-26096a52ec1ae30700368886d987f072e8b4dd14.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\User\Downloads\Webmail-master\Webmail-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-3791088a8426f4e871d60d06e92e4846eb38cbc0.jar" />
+    </item>
+
+</items>
